@@ -7,6 +7,9 @@ public class BranchingPractice {
         // made initial commit by keeping track of all files
         // share project on GitHub
 
+        // reviewing on new branch
+        // doing more review on branch
+
 
     }
 }
